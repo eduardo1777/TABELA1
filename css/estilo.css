@@ -1,0 +1,55 @@
+body {
+    background-color: white;
+}
+
+.container {
+    background-color: #454d55; 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); 
+}
+
+.btn-success {
+    background-color: #007bff; 
+    border-color: #007bff;
+    
+}
+
+.btn-success:hover {
+    background-color: #0056b3; 
+    border-color: #0056b3;
+    
+}
+
+.table {
+    background-color: #dee2e6;
+}
+
+.table th {
+    background-color: #6c757d;
+    color: #fff;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #adb5bd;
+}
+
+.btn-danger {
+    background-color: #dc3545; 
+    border-color: #dc3545;
+}
+
+.btn-danger:hover {
+    background-color: #c82333; 
+    border-color: #bd2130;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    border-color: #ffc107; 
+}
+
+.btn-warning:hover {
+    background-color: #e0a800; 
+    border-color: #d39e00;
+}
